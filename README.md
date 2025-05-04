@@ -8,6 +8,13 @@ A simple and efficient mobile application built with **React Native** that allow
 
 ## 📸 Screenshots
 
+![WhatsApp Image 2025-05-04 at 21 19 38_e38e497b](https://github.com/user-attachments/assets/ba11cf5c-1616-43eb-b797-6d2f392aaeda)
+![WhatsApp Image 2025-05-04 at 21 19 38_4c52fd90](https://github.com/user-attachments/assets/140cbe65-4495-4f9d-9897-4a2794cf4e7d)
+![WhatsApp Image 2025-05-04 at 21 19 39_3150a2c4](https://github.com/user-attachments/assets/05911e6b-adbc-4e4c-9bcb-5dd203c30945)
+![WhatsApp Image 2025-05-04 at 21 19 39_31b38b71](https://github.com/user-attachments/assets/96f69000-a6a3-4a08-8430-bba9284523de)
+![WhatsApp Image 2025-05-04 at 21 19 40_b4bb6a43](https://github.com/user-attachments/assets/4eb2e8ae-9541-4111-9ba4-dc14b0401cc6)
+
+
 *Add a task, delete a task, manage your day in a few taps!*
 
 *(Include screenshots here if you have them)*
